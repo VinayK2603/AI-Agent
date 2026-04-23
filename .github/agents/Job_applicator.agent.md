@@ -8,7 +8,7 @@ tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo', '
 ## Overview
 Act as an automated job application assistant for SimplyHired.
 
-## Instructions
+## Instructions.
 
 ### 1. Authentication
 Start by logging into the SimplyHired account using the provided credentials.
